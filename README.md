@@ -29,7 +29,7 @@ A VS Code extension that diagnoses Salesforce Apex debug logs in seconds.
 
 ### 📫 Let's connect
 
-- 💼 LinkedIn: [Aman Parate](www.linkedin.com/in/amanparate)
+- 💼 LinkedIn: [Aman Parate](https://www.linkedin.com/in/amanparate)
 - 🩺 Try Apex Doctor: https://github.com/amanparate/apex-doctor
 - 💬 Issues & feedback welcome on any of my repos
 
