@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi, I'm Aman 👋
 
-<!--
-**amanparate/amanparate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salesforce Developer based in Pune, India 🇮🇳  
+Building tools that make Apex debugging suck less.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🩺 Currently building: [Apex Doctor](https://github.com/amanparate/apex-doctor)
+
+A VS Code extension that diagnoses Salesforce Apex debug logs in seconds.
+
+- 🤖 AI root-cause analysis with Apex code fixes
+- 🔴 Live log streaming from your org — no CLI dance
+- 💡 Plain-English performance insights
+- 🔀 Compare two logs side-by-side
+- 📈 Activity timeline & full SOQL / DML / debug breakdown
+
+**Install**: [Open VSX](https://open-vsx.org/extension/amanparate/apex-doctor) (Cursor, VSCodium, Gitpod) · VS Code Marketplace coming soon
+
+---
+
+### 🛠️ Tech I work with
+
+**Salesforce**: Apex · SOQL · Lightning Web Components · SFDX · Tooling API  
+**Web**: TypeScript · Node.js · React · VS Code Extension API  
+**AI**: Anthropic Claude · OpenRouter · Prompt engineering
+
+---
+
+### 📫 Let's connect
+
+- 💼 LinkedIn: [Aman Parate](www.linkedin.com/in/amanparate)
+- 🩺 Try Apex Doctor: https://github.com/amanparate/apex-doctor
+- 💬 Issues & feedback welcome on any of my repos
+
+---
+
+<sub>⭐ If Apex Doctor helps you, a star on the repo means a lot.</sub>
